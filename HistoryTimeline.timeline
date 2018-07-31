@@ -1,0 +1,3104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timeline>
+  <version>1.12.0 (3579f575a74c 2016-10-30)</version>
+  <timetype>gregoriantime</timetype>
+  <eras>
+    <era>
+      <name>The 1st Era</name>
+      <start>-4499-01-01 00:00:00</start>
+      <end>-2199-01-01 00:00:00</end>
+      <color>223,223,223</color>
+      <ends_today>False</ends_today>
+    </era>
+    <era>
+      <name>The 2nd Era</name>
+      <start>-2199-01-01 00:00:00</start>
+      <end>-688-01-01 00:00:00</end>
+      <color>191,234,191</color>
+      <ends_today>False</ends_today>
+    </era>
+    <era>
+      <name>The 3rd Era</name>
+      <start>-688-01-01 00:00:00</start>
+      <end>1-01-01 00:00:00</end>
+      <color>191,221,234</color>
+      <ends_today>False</ends_today>
+    </era>
+    <era>
+      <name>The 4th Era</name>
+      <start>1-01-01 00:00:00</start>
+      <end>2000-12-31 00:00:00</end>
+      <color>234,191,191</color>
+      <ends_today>False</ends_today>
+    </era>
+  </eras>
+  <categories>
+    <category>
+      <name>薛兰</name>
+      <color>0,128,255</color>
+      <progress_color>0,128,255</progress_color>
+      <done_color>128,128,255</done_color>
+      <font_color>255,255,255</font_color>
+    </category>
+    <category>
+      <name>埃迪亚</name>
+      <color>0,255,64</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>64,0,64</font_color>
+    </category>
+    <category>
+      <name>死灵王国</name>
+      <color>128,0,255</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>255,255,255</font_color>
+    </category>
+    <category>
+      <name>凯洛文</name>
+      <color>0,64,128</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>255,255,255</font_color>
+    </category>
+    <category>
+      <name>亚冈</name>
+      <color>128,128,128</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>255,255,255</font_color>
+    </category>
+    <category>
+      <name>龙岛</name>
+      <color>192,192,192</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>128,0,128</font_color>
+    </category>
+    <category>
+      <name>柯金</name>
+      <color>255,128,64</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>255,255,255</font_color>
+    </category>
+    <category>
+      <name>法林塔</name>
+      <color>0,0,0</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>255,255,0</font_color>
+    </category>
+    <category>
+      <name>东辰</name>
+      <color>255,66,66</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>255,255,255</font_color>
+    </category>
+    <category>
+      <name>楚兰加斯</name>
+      <color>128,255,0</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>255,0,0</font_color>
+    </category>
+    <category>
+      <name>罗赛</name>
+      <color>128,255,255</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>布林塔</name>
+      <color>255,255,255</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>255,0,0</font_color>
+    </category>
+    <category>
+      <name>科纳克</name>
+      <color>64,128,128</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>255,255,255</font_color>
+    </category>
+    <category>
+      <name>潘洲</name>
+      <color>128,64,0</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,128,255</font_color>
+    </category>
+    <category>
+      <name>卢匹安</name>
+      <color>255,128,192</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>金腊</name>
+      <color>255,255,0</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>雅玛利</name>
+      <color>0,64,0</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>255,255,255</font_color>
+    </category>
+    <category>
+      <name>安苏玛那</name>
+      <color>255,128,128</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,160</font_color>
+    </category>
+  </categories>
+  <events>
+    <event>
+      <start>-1094-01-09 06:37:00</start>
+      <end>0-06-14 13:48:00</end>
+      <text>[1]薛兰</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-572-10-14 19:58:00</start>
+      <end>-572-10-14 19:58:00</end>
+      <text>星月议会建立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>在埃迪亚衰落之后，大量魔法师迁移到了薛兰境内，促进了薛兰魔法水平的发展。薛兰共和国建立了由魔法师组成的星月议会，对城邦的政治提出意见。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-1094-08-03 08:28:00</start>
+      <end>-1094-08-03 08:28:00</end>
+      <text>薛兰建城</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-851-05-26 16:12:00</start>
+      <end>-851-05-26 16:12:00</end>
+      <text>薛兰城统一了附近区域</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-444-03-23 13:29:00</start>
+      <end>-436-03-23 13:29:00</end>
+      <text>巫妖之乱</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>死灵法师在薛兰中的地位与权势引起了其他法师的嫉妒，因此魔法师联合世俗贵族们发难，意图清洗死灵法师，由此引发战争。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-414-03-12 22:45:00</start>
+      <end>-374-03-13 22:45:00</end>
+      <text>四独裁者时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>在巫妖之乱结束之后，民众对魔法师充满了不信任；世俗贵族独裁者趁此机会崛起</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-384-04-25 01:25:00</start>
+      <end>-384-04-25 01:25:00</end>
+      <text>军事魔法改革</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>黑袍法师和炼金术成了军事魔法中的最重要部分</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-374-03-28 18:38:00</start>
+      <end>-343-03-29 18:38:00</end>
+      <text>奥卡普良时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>奥卡普良是薛兰共和国的最后一位独裁者，共和国制度在他任内基本消亡。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-343-09-05 08:06:00</start>
+      <end>-343-09-05 08:06:00</end>
+      <text>德拉乡即位</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>奥卡普良之子德拉乡接任奥卡普良之位，他自封为薛兰帝国的第一位皇帝。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-287-06-27 00:00:00</start>
+      <end>-264-06-28 00:00:00</end>
+      <text>征服世界失败</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>在20余年间，薛兰在东方和西方的战场上都遭遇了重大失败，其征服世界的野心受到了很大的挫折</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-261-07-01 16:41:00</start>
+      <end>-261-07-01 16:41:00</end>
+      <text>划疆守土</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>皇帝维奇拉索去世，在遗书中提出了薛兰帝国不再扩张的战略。划定了理想的疆界</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-1499-04-22 09:36:00</start>
+      <end>-1499-04-22 09:36:00</end>
+      <text>安芬文明灭亡</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <description>安芬文明被北方蛮族毁灭</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-1049-04-27 15:50:00</start>
+      <end>-959-04-28 15:50:00</end>
+      <text>五世之战</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <description>埃迪亚和伊鲁兰为了争夺终于世界的霸权而进行了近一个世纪的战争。最后埃迪亚获胜，成为了中域的霸主。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-2220-10-16 10:24:00</start>
+      <end>315-05-31 15:50:00</end>
+      <text>[2]埃迪亚</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-779-01-01 08:18:00</start>
+      <end>-709-01-02 08:18:00</end>
+      <text>海萨战争</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <description>为了争夺在埃迪亚的霸权，海达和萨洛斯在70年间进行了3次战争。这场战争直接导致了埃迪亚的衰落。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>80-03-21 05:16:00</start>
+      <end>370-03-21 05:16:00</end>
+      <text>双月时代</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>凯洛文和纳尔奥利斯分别以薛兰的继承人身份自居，把自己当作黑暗时代的明月。
+后人便将它们比作双月。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-436-03-12 03:18:00</start>
+      <end>-436-03-12 03:18:00</end>
+      <text>死灵法师被驱逐</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>在巫妖之乱之后，许多死灵法师被处死，剩下的逃离到薛兰境外，四处隐匿。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-549-01-21 02:07:00</start>
+      <end>-549-01-21 02:07:00</end>
+      <text>死灵魔法引入薛兰</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>一位埃迪亚法师西行到龙岛，挖掘出了死灵魔法的秘密，并将其引入薛兰。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-33-03-14 14:50:00</start>
+      <end>378-01-02 21:02:00</end>
+      <text>[3]纳尔奥利斯</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>342-08-22 10:09:00</start>
+      <end>342-08-22 10:09:00</end>
+      <text>阿法拉斯创造了吸血鬼</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>378-01-01 03:13:00</start>
+      <end>378-01-01 03:13:00</end>
+      <text>纳尔奥利斯灭亡</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>教廷的圣战毁灭了纳尔奥利斯</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-33-01-01 09:57:00</start>
+      <end>-33-01-01 09:57:00</end>
+      <text>纳尔奥利斯建立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>趁着薛兰帝国衰败，征服者奥德卡在北寒岛建立了纳尔奥利斯。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>223-10-13 10:55:00</start>
+      <end>223-10-13 10:55:00</end>
+      <text>三月政变，法里亚被消灭</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>阿尔比残酷的镇压了国内的反对者，这标志着白银时代的终结。以法里亚为首的一批巫妖在此事件中被消灭。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>15-02-05 00:05:00</start>
+      <end>15-02-05 00:05:00</end>
+      <text>巴尔罗格去世</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>薛兰城的破城者巴尔罗格在与纳尔奥利斯的战争中受伤，不治而死。按照洛文的习俗，他所留下的土地被儿子们瓜分。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>71-12-31 19:59:00</start>
+      <end>510-04-20 00:31:00</end>
+      <text>[4]凯洛文</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>92-01-01 07:59:00</start>
+      <end>92-01-01 07:59:00</end>
+      <text>凯恩大帝逝世</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>凯恩大帝逝世，帝国全部由其长子继承。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>155-05-23 12:05:00</start>
+      <end>155-05-23 12:05:00</end>
+      <text>秩理教廷独立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>为了在对纳尔奥利斯的战争中发动邻国的力量，帝国通过了宗教法案，赐予秩理教廷政治独立的身份。数年过后，周边的秩理教国家渐渐开始承认教廷的国际性地位。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>163-01-01 02:07:00</start>
+      <end>378-01-01 02:07:00</end>
+      <text>九次北伐圣战</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>在两百余年间，帝国组织了9次对死灵王国的北伐圣战。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-3999-01-01 10:11:00</start>
+      <end>-3999-01-01 10:11:00</end>
+      <text>早期文明</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>亚冈</category>
+      <description>亚冈地区出现了早期的城镇，宫殿，神庙和文字。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-2699-01-01 23:36:00</start>
+      <end>-2699-01-01 23:36:00</end>
+      <text>亚冈兴起</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>亚冈</category>
+      <description>亚冈这座城市兴起</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-2700-04-26 07:12:00</start>
+      <end>-822-01-01 01:38:00</end>
+      <text>[5]亚冈</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1499-01-01 22:10:00</start>
+      <end>-749-02-20 19:09:00</end>
+      <text>[6]龙岛</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-959-11-05 17:23:00</start>
+      <end>-959-11-05 17:23:00</end>
+      <text>死灵魔法被发现</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>龙岛</category>
+      <description>打着为民除害的幌子，卡哈尔(Cahal)组织了一次屠龙行动，并私吞了龙尸中的龙晶。借助龙晶中蕴藏的力量，他成功成为了历史上第一位巫妖。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-799-01-01 22:16:00</start>
+      <end>363-01-01 21:45:00</end>
+      <text>[7]柯金</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-200-05-07 08:02:00</start>
+      <end>-200-05-07 08:02:00</end>
+      <text>瓦尔科夫战记</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>柯金</category>
+      <description>光辉的后裔瓦尔科夫拯救了光辉后裔建立的国家纳鲁斯。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>130-11-18 06:25:00</start>
+      <end>130-11-18 06:25:00</end>
+      <text>耶尼夫战记</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>柯金</category>
+      <description>纳尔奥利斯尝试入侵德里弗利亚，但是这一计划被光辉后裔耶尼夫挫败。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>181-05-10 17:09:00</start>
+      <end>181-05-10 17:09:00</end>
+      <text>统一德里弗利亚</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>柯金</category>
+      <description>阿尔贝因统一了德里弗利亚地区。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>110-08-22 00:15:00</start>
+      <end>110-08-22 00:15:00</end>
+      <text>神恩学会创立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>秩理教的魔法师在凯洛文帝国中得势，借着这个机会，教廷创立了下属的魔法师会。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-949-02-25 23:36:00</start>
+      <end>-71-07-27 20:33:00</end>
+      <text>[8]法林塔</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-719-02-01 01:54:00</start>
+      <end>-576-02-02 01:54:00</end>
+      <text>扩土战争时期</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>为了扩张领土，法林塔与东方的高地科纳克人、南方的楚兰加斯人以及北方的霜族进行了长久的战争。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-539-12-01 23:48:00</start>
+      <end>-379-01-01 23:48:00</end>
+      <text>黄金时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>这段时期法林塔既无外患，也无内忧。国家安享和平与繁荣。国王们削减军队，大修公共设施，以此留名。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-486-08-22 13:36:00</start>
+      <end>-415-08-23 13:36:00</end>
+      <text>北海航路</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>在两国的兴盛时期，薛兰和法林塔之间一度有海上商路。在巫妖之乱后，该航路渐渐断绝。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-334-10-18 12:29:00</start>
+      <end>-334-10-18 12:29:00</end>
+      <text>法里亚成为巫妖</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>为了报复劫掠的霜族，法林塔的魔法师法里亚(A.Faria)走上了死灵法师的道路，并最终成为了一名巫妖。 法里亚以对霜族的仇恨而闻名于史。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>196-01-27 11:17:00</start>
+      <end>196-01-27 11:17:00</end>
+      <text>法里亚击败圣战军</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>法里亚帮助纳尔奥利斯挫败了秩理教廷的第二、三次圣战。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-695-06-25 15:27:00</start>
+      <end>-695-06-25 15:27:00</end>
+      <text>铸造龙火权杖</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>哈德里安二世受到巨龙的赐福，在巨龙的帮助下，哈德里安二世授命法师文迪尔铸造了龙火权杖，该权杖成为了法林塔王权的象征。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-225-12-02 05:00:00</start>
+      <end>-225-12-02 05:00:00</end>
+      <text>阿什利篡权</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>阿什利联合王子，在战场上背叛了老国王欧林二世。 在王子死于德文纳尔之手后，阿什利杀死了其余所有王室继承人候选，然后登基成为女王。 德文纳尔救下了襁褓中的王室成员伽拉德，逃走并将其抚育长大。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-250-08-23 07:52:00</start>
+      <end>-250-08-23 07:52:00</end>
+      <text>德文纳尔受封皇家法师</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>德文纳尔(Devenar)帮助欧林二世击败了霜族首领扎坦(Zartan)和巫妖亚维利诺(Avelino)，成为了皇家法师。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-126-12-16 17:14:00</start>
+      <end>-119-12-17 17:14:00</end>
+      <text>阿尔卡希尔黑潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>巫妖阿尔卡希尔(Arka'thil)从北方入侵了法林塔和科纳克，造成了极大的破坏。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-109-04-01 23:48:00</start>
+      <end>-71-04-01 23:48:00</end>
+      <text>白银时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>虽然法林塔从黑潮中渐渐恢复，但是却失去了在大陆西岸的统治力。在这个时期，北方的卡莎联盟崛起，其影响力渐渐与法林塔旗鼓相当。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-71-10-12 12:17:00</start>
+      <end>-71-10-12 12:17:00</end>
+      <text>伽拉德王朝终结</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>伽拉德二世无嗣而终，内战再起。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-119-04-03 11:37:00</start>
+      <end>-119-04-03 11:37:00</end>
+      <text>卡伦终结了黑潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>卡伦在魏德林城下一战中杀死了巫妖阿尔卡希尔，终结了黑潮。 战后，卡伦被伽拉德二世封为大将军。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>95-10-21 15:26:00</start>
+      <end>223-10-22 15:26:00</end>
+      <text>白银时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>阿尔比治国有方，令死灵王国兴盛繁荣。
+因为纳尔奥利斯自诩为薛兰的继承者，所以人们将薛兰鼎盛时称为黄金时代，而将纳尔奥利斯的这一时代称为白银时代。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-1599-01-18 09:44:00</start>
+      <end>653-04-15 04:11:00</end>
+      <text>[9]东辰</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-619-05-20 23:38:00</start>
+      <end>-465-05-21 23:38:00</end>
+      <text>列国时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-1599-02-09 08:55:00</start>
+      <end>-465-02-10 08:55:00</end>
+      <text>竹年时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-324-12-13 14:27:00</start>
+      <end>-247-12-14 14:27:00</end>
+      <text>霜族之灾</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>延续着生前对霜族仇恨的执念，法里亚的亡灵军队对霜族进行了数十年的打击。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>287-07-08 17:21:00</start>
+      <end>287-07-08 17:21:00</end>
+      <text>无形学会创立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>受神恩学会压迫的魔法师们秘密组织了无形学会。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1-06-16 10:23:00</start>
+      <end>95-06-17 10:23:00</end>
+      <text>新夜时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>纳尔奥利斯的时代划分法</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>96-04-24 19:15:00</start>
+      <end>378-04-24 19:15:00</end>
+      <text>星月时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>纳尔奥利斯的时代划分法。按照纳尔奥利斯的观点，它是薛兰的继承人，是暗夜中的守护者。所以将这个时代称为星月时代，来表明死灵王国的贡献。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1-07-14 11:28:00</start>
+      <end>155-07-15 11:28:00</end>
+      <text>黑暗时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>秩理教廷的时代划分法</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>155-12-03 23:28:00</start>
+      <end>470-12-04 23:28:00</end>
+      <text>星月时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>秩理教廷的时代划分法。秩理教廷借用了死灵王国星月时代的说法，但是它认为教廷才是黑暗中的微弱之光。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>128-06-25 04:09:00</start>
+      <end>128-06-25 04:09:00</end>
+      <text>大图书馆建成</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>纳尔奥利斯国立大图书馆建成，这项工程被视为阿尔比执政50年的献礼</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-545-11-22 21:56:00</start>
+      <end>-545-11-22 21:56:00</end>
+      <text>卡诺牌被发明</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>马卡尼斯发明卡诺牌</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-490-05-25 03:24:00</start>
+      <end>-490-05-25 03:24:00</end>
+      <text>卡诺牌协会成立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-167-09-19 07:30:00</start>
+      <end>-167-09-19 07:30:00</end>
+      <text>卡诺牌协会被取缔</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>帝国官方的卡诺牌协会被皇帝取缔</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-378-03-07 02:07:00</start>
+      <end>-378-03-07 02:07:00</end>
+      <text>首位黑袍议长</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>炼金术师埃贝尤斯(Epeius)成为星月议会的首位黑袍法师议长</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-342-01-17 09:02:00</start>
+      <end>-342-01-17 09:02:00</end>
+      <text>薛兰帝国成立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>德拉乡登基为皇帝，正式终结了薛兰共和国。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-319-09-11 18:09:00</start>
+      <end>-69-09-11 18:09:00</end>
+      <text>纳鲁斯王国</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>柯金</category>
+      <description>光辉后裔建立的国家。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-401-09-26 09:00:00</start>
+      <end>-401-09-26 09:00:00</end>
+      <text>圣魔剑的起源</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>柯金</category>
+      <description>传说：为了对抗魔族的入侵，圣心王伊拉里昂牺牲了自己，让女神将自己的灵魂注入了一把破邪之剑，铸成了圣剑奥萨拉。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-152-01-21 22:56:00</start>
+      <end>-137-01-21 22:56:00</end>
+      <text>入侵海邦</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>罗赛</category>
+      <description>罗赛帝国尝试入侵科纳克人的海邦，但是失败了。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-105-05-02 18:37:00</start>
+      <end>-82-05-03 18:37:00</end>
+      <text>入侵楚兰加斯</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>罗赛</category>
+      <description>罗赛人尝试南侵楚兰加斯，也以失败告终。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-62-08-09 21:35:00</start>
+      <end>-62-08-09 21:35:00</end>
+      <text>罗赛帝国分裂</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>罗赛</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-87-07-14 16:54:00</start>
+      <end>-87-07-14 16:54:00</end>
+      <text>楚兰加斯帝国成立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>为了对抗罗赛帝国的入侵，楚兰加斯部落结合成了国家。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-977-09-23 09:22:00</start>
+      <end>-977-09-23 09:22:00</end>
+      <text>咒语魔法被发现</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <description>马尔尤纳斯首次发现了咒语魔法。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-96-11-07 08:24:00</start>
+      <end>350-11-08 08:24:00</end>
+      <text>卡莎同盟</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>瑟拉娜(Serana)建立了同时欢迎法林塔人，霜族人和科纳克人的北方联盟。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-200-05-29 03:38:00</start>
+      <end>-200-05-29 03:38:00</end>
+      <text>北伐夷月</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <description>桓帝北伐夷月，将乌都人(Wuldu)向西驱赶。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-138-06-04 04:08:00</start>
+      <end>-138-06-04 04:08:00</end>
+      <text>南方战争</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>法林塔王国和南方的楚兰加斯人打了一场大战。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-366-03-28 21:22:00</start>
+      <end>-366-03-28 21:22:00</end>
+      <text>马修斯事件</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>因为试图解构薛兰的宗教以及涉嫌涉足死灵魔法，灵性派魔法师遭到清洗。魔法师界进一步向世俗势力低头。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>48-06-08 00:34:00</start>
+      <end>48-06-08 00:34:00</end>
+      <text>洛文魔法语</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>菲斯林和伊比宁借鉴了古魔法语，创造了适合洛文人的洛文魔法语。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>419-12-30 21:05:00</start>
+      <end>419-12-30 21:05:00</end>
+      <text>理魔法改革</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>C.K.格拉汉姆对理魔法进行了改革，引用了贝瓦尔学派理念世界的概念，采用“能量与结构”的视角来看待包括魔法在内的世界。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>61-03-30 11:55:00</start>
+      <end>61-03-30 11:55:00</end>
+      <text>血瞳卡尔统一布林塔人</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>布林塔</category>
+      <description>在瓦格纳的数百年后，布林塔人中再一次出现了一位能够统一他们的伟大领袖，这就是血瞳卡尔。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>68-11-04 20:20:00</start>
+      <end>68-11-04 20:20:00</end>
+      <text>血瞳卡尔被暗杀</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>布林塔</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>87-03-21 02:10:00</start>
+      <end>87-03-21 02:10:00</end>
+      <text>莉迪亚重新统一布林塔</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>布林塔</category>
+      <description>血瞳卡尔之女莉迪亚抵挡了卡莎联盟的侵略，并找出和击败了暗杀自己父亲的凶手。她重新统一了布林塔人，成为了第二任大酋长。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-655-09-07 10:55:00</start>
+      <end>-655-09-07 10:55:00</end>
+      <text>瓦格纳被暗杀</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>布林塔</category>
+      <description>布林塔人历史上首位统一了整个部族的大酋长。他本来准备酝酿一场对南方的大规模侵袭，但是却被科纳克人法罗尔和迪兰暗杀。在这次暗杀行动中，法罗尔和迪兰服用了夜神之泪，受到了长生以及心智侵蚀的诅咒。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-221-05-06 12:20:00</start>
+      <end>-221-05-06 12:20:00</end>
+      <text>布林塔人南下</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>布林塔</category>
+      <description>法林塔的女王阿什利为了维护自己的统治，借用了霜族的力量。于是布林塔人大规模南下，与女王联手镇压国内的反对力量。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-651-09-08 05:07:00</start>
+      <end>-651-09-08 05:07:00</end>
+      <text>法罗尔成为统领</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>科纳克</category>
+      <description>因为对抗霜族的功绩，法罗尔被选为高地科纳克人的统领。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-627-08-04 09:21:00</start>
+      <end>-627-08-04 09:21:00</end>
+      <text>法罗尔退位</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>科纳克</category>
+      <description>因为与迪兰的分歧以及夜神之泪的诅咒等原因，法罗尔感到十分心累。他决定退位，与自己的德鲁伊伴侣克莱尔一同隐居。迪兰接任。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-613-04-18 15:23:00</start>
+      <end>-613-04-18 15:23:00</end>
+      <text>迪兰自封至高王</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>科纳克</category>
+      <description>迪兰自封为科纳克人的至高王，拉开了科纳克人长久内战的序幕。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-574-03-11 14:25:00</start>
+      <end>-574-03-11 14:25:00</end>
+      <text>内战终结</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>科纳克</category>
+      <description>复出的法罗尔击败了迪兰，终结了他的统治。在内战中，法罗尔统一了科纳克人的力量，所以他暂时接任科纳克的至高王。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-562-12-31 22:00:00</start>
+      <end>-562-12-31 22:00:00</end>
+      <text>法罗尔再度退位</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>科纳克</category>
+      <description>在法罗尔的最后一位孩子逝世的三年后，他决定再度退位。在法罗尔任内，他尽力将自己的权力分散。在法罗尔退位后，高地科纳克人不再接受一位领袖的集权统治，而是形成了松散的部落联盟。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-377-04-18 12:08:00</start>
+      <end>-377-04-18 12:08:00</end>
+      <text>法罗尔抗击海邦巫妖</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>科纳克</category>
+      <description>一位来自薛兰的巫妖在科纳克的一座海邦城市造成了灾难，科纳克人的英雄法罗尔挺身而出，消灭了这位巫妖。这是法罗尔最后一次活跃在历史上。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-400-03-28 23:22:00</start>
+      <end>-400-03-28 23:22:00</end>
+      <text>法罗尔协助光辉之裔</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>科纳克</category>
+      <description>科纳克人的英雄法罗尔曾流浪到德里弗利亚地区，他在这里帮助圣心王伊拉里昂建立了新的国家。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-179-07-08 15:13:00</start>
+      <end>-179-07-08 15:13:00</end>
+      <text>罗赛血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>楚兰加斯部落组织血潮，渡海入侵了罗赛帝国，被击溃。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-237-09-12 20:44:00</start>
+      <end>-237-09-12 20:44:00</end>
+      <text>第三次法林塔血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>在欧林王朝期间，楚兰加斯部落组织了一次血潮，从南方入侵法林塔王国，被欧林二世挫败。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-354-05-30 08:41:00</start>
+      <end>-354-05-30 08:41:00</end>
+      <text>第二次法林塔血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>在法林塔的黑暗时代，楚兰加斯人组织了第二次入侵这个国家的血潮。这次血潮对法林塔国家造成了深重的伤害。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-593-02-18 20:24:00</start>
+      <end>-593-02-18 20:24:00</end>
+      <text>第一次法林塔血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>法林塔在扩土战争时期与南方的楚兰加斯人的战争激起了他们的仇恨，楚兰加斯人组织起了对法林塔国的第一次血潮。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-1503-06-26 16:11:00</start>
+      <end>450-08-19 03:56:00</end>
+      <text>[10]楚兰加斯</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-512-02-28 05:07:00</start>
+      <end>-512-02-28 05:07:00</end>
+      <text>科纳克血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>法罗尔参与了对这次血潮的抗击。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-262-11-01 07:01:00</start>
+      <end>-262-11-01 07:01:00</end>
+      <text>科纳克血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-765-04-19 22:37:00</start>
+      <end>-765-04-19 22:37:00</end>
+      <text>科纳克血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-1041-02-03 11:45:00</start>
+      <end>-1041-02-03 11:45:00</end>
+      <text>科纳克血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>有历史记载的最早的科纳克血潮</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-466-02-08 06:55:00</start>
+      <end>-466-02-08 06:55:00</end>
+      <text>科纳克血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-683-03-29 11:58:00</start>
+      <end>-683-03-29 11:58:00</end>
+      <text>楚兰加斯血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>这次楚兰加斯血潮后，北方的浅林楚兰加斯人势力被削弱。这令法林塔人在之后的几十年里轻松的向南扩展疆土。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-457-11-13 01:33:00</start>
+      <end>-457-11-13 01:33:00</end>
+      <text>楚兰加斯血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>公元前五世纪的这次楚兰加斯血潮影响较大，楚兰加斯人在百年间一蹶不振。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-38-05-09 18:20:00</start>
+      <end>-38-05-09 18:20:00</end>
+      <text>帝国血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>楚兰加斯帝国通过血潮的形式来清洗自己内部的派系。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>164-08-18 03:08:00</start>
+      <end>164-08-18 03:08:00</end>
+      <text>帝国血潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>这次血潮打响了楚兰加斯帝国覆灭的前奏。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-463-09-26 20:46:00</start>
+      <end>-463-09-26 20:46:00</end>
+      <text>统一庭海沿岸</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>薛兰将整个庭海的沿岸都纳入了自己的疆土。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>549-11-22 16:03:00</start>
+      <end>549-11-22 16:03:00</end>
+      <text>金腊商路被建立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>583-12-13 23:50:00</start>
+      <end>583-12-13 23:50:00</end>
+      <text>发现潘洲</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>潘洲</category>
+      <description>秩理教廷赞助的船队向西航行发现了潘洲和在那里生活的兽人。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>585-07-07 01:31:00</start>
+      <end>595-07-07 01:31:00</end>
+      <text>第一次征服战争</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>潘洲</category>
+      <description>在潘洲被发现之后。亚洲和中域的各国相继派遣舰队西征，想要占有新大陆的土地。因为人类与新大陆的兽人相互传染疫病，所以战争被迫终止。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>592-04-22 13:07:00</start>
+      <end>635-04-23 13:07:00</end>
+      <text>大瘟疫时代</text>
+      <progress>0</progress>
+      <fuzzy>True</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <description>潘洲的兽人被带回旧世界，用作奴隶。这带来了新的瘟疫，在五十年间，这次大瘟疫的影响波及了整个旧世界。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>371-04-12 11:13:00</start>
+      <end>371-04-12 11:13:00</end>
+      <text>瘟疫作战失败</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>在抵抗秩理教廷入侵的最后尝试中，艾斯塔蒂试图以瘟疫作为武器。这本是前代巫妖王所不齿的，但是艾斯塔蒂迫于形势出此下策。但是这个计划被秩理教挫败了。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-922-02-09 13:16:00</start>
+      <end>-922-02-09 13:16:00</end>
+      <text>魏德林建城</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-878-12-04 14:08:00</start>
+      <end>-878-12-04 14:08:00</end>
+      <text>奥斯丁港建城</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>63-11-21 09:52:00</start>
+      <end>63-11-21 09:52:00</end>
+      <text>安伯改名君王堡</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>221-02-28 23:59:00</start>
+      <end>221-02-28 23:59:00</end>
+      <text>加萨文引领科纳克复兴</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>科纳克</category>
+      <description>加萨文创造了科纳克魔法语，复兴了科纳克人的文化。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>261-06-19 20:52:00</start>
+      <end>261-06-19 20:52:00</end>
+      <text>加萨文逝世</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>科纳克</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>271-05-24 00:34:00</start>
+      <end>271-05-24 00:34:00</end>
+      <text>加萨沃尔建城</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>科纳克</category>
+      <description>加萨文晚年隐居的小城在他死后被扩建。为了纪念加萨文，这座新城北命名为加萨沃尔</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-241-06-27 17:55:00</start>
+      <end>-62-06-28 17:55:00</end>
+      <text>罗赛帝国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>罗赛</category>
+      <description>效仿薛兰帝国的制度，罗赛建立了自己的帝国</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>13-01-08 18:24:00</start>
+      <end>266-01-09 18:24:00</end>
+      <text>萨洛赫（金冠王朝）</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>罗赛</category>
+      <description>为了与日后由吸血鬼领主统治的蝙蝠王朝相区分，所以由列纳一世开创的蝙蝠王朝又称为金冠王朝。
+在其开国国君列纳一世年幼时，因为列纳的家族式微，他常常遭人嘲笑，其家族纹章上的翼龙常被讥笑为蝙蝠。后来，列纳成为了乱世中的一位枭雄，最终建立了他的王国。列纳以狡诈闻名，人们带着恶意和畏惧将列纳称为蝙蝠王。列纳欣然接受了这个称谓，在王室纹章中采用了王冠蝙蝠的图案。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>12-12-21 18:51:00</start>
+      <end>12-12-21 18:51:00</end>
+      <text>蝙蝠王建立萨洛赫王国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>罗赛</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>154-05-19 07:08:00</start>
+      <end>154-05-19 07:08:00</end>
+      <text>弗朗哥二世征服海邦</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>罗赛</category>
+      <description>蝙蝠王朝的弗朗哥二世(Joao Franco)征服了科纳克海邦。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>128-03-07 04:17:00</start>
+      <end>128-03-07 04:17:00</end>
+      <text>布林塔人征服高地科纳克</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>布林塔</category>
+      <description>海邦的城主们出卖了高地科纳克人，导致他们被布林塔人征服奴役。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>178-03-07 00:37:00</start>
+      <end>178-03-07 00:37:00</end>
+      <text>阿尔贝因杀死暗皇子</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>柯金</category>
+      <description>阿尔贝因杀死了暗皇子，为他数百年的暴行画上了休止符。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-842-03-15 05:13:00</start>
+      <end>-842-03-15 05:13:00</end>
+      <text>赛达拉大灯塔建成</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>38-08-10 17:10:00</start>
+      <end>38-08-10 17:10:00</end>
+      <text>赛达拉大灯塔毁于地震</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-123-08-20 16:58:00</start>
+      <end>-123-08-20 16:58:00</end>
+      <text>天空塔坠毁</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>达加纳城遭遇地震，天空塔坠毁。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-283-12-20 13:11:00</start>
+      <end>-283-12-20 13:11:00</end>
+      <text>卢匹安击败薛兰</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>卢匹安</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-485-07-27 01:26:00</start>
+      <end>-485-07-27 01:26:00</end>
+      <text>卢匹安人发现火药</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>卢匹安</category>
+      <description>卢匹安人发现了火药。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-467-10-24 22:06:00</start>
+      <end>-467-10-24 22:06:00</end>
+      <text>东辰发现火药</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <description>东辰的方士独立发现了火药。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>157-12-24 19:28:00</start>
+      <end>157-12-24 19:28:00</end>
+      <text>活字印刷术被发明</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-147-10-25 12:27:00</start>
+      <end>-147-10-25 12:27:00</end>
+      <text>造纸术被发明</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-746-12-05 18:01:00</start>
+      <end>-746-12-05 18:01:00</end>
+      <text>缘桥魔法被发现</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-452-02-05 00:17:00</start>
+      <end>-452-02-05 00:17:00</end>
+      <text>天空塔建成</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>死灵法师在达加纳城建成天空塔</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>95-01-13 22:50:00</start>
+      <end>95-01-13 22:50:00</end>
+      <text>阿尔比新政</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>阿尔比推行大幅度的政治改革，开启了死灵王国的白银时代。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>405-12-10 03:02:00</start>
+      <end>520-12-11 03:02:00</end>
+      <text>血冠王朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>罗赛</category>
+      <description>吸血鬼领主以复辟萨洛赫王国的名义建立了他们的王国。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>206-06-10 07:58:00</start>
+      <end>206-06-10 07:58:00</end>
+      <text>亡灵军队装备火枪</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>纳尔奥利斯的亡灵军队首先装备了火枪。
+早期的火枪射程近，精度低，装填困难，所以并不是很理想的武器。但是对于死灵王国的亡灵部队却找到了这种武器的恰当用法。行尸部队并不害怕弓箭的射击，所以人类的军队缺乏远程伤害行尸的方法。利用这一点，亡灵军队可以站立装填和行进到近程进行射击，这种战术威力很大。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>212-04-01 20:29:00</start>
+      <end>212-04-01 20:29:00</end>
+      <text>发明火炮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>纳尔奥利斯发明了火炮，并且装备到了舰船上。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-620-06-08 15:06:00</start>
+      <end>-620-06-08 15:06:00</end>
+      <text>孝王弑兄，诸侯竞称王</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <description>殷孝王弑兄篡位，其恶行令他在诸侯中威信扫地。数年之间，各个大国的诸侯纷纷称王，宣告列国时代的开启。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-811-02-20 00:00:00</start>
+      <end>818-02-08 00:22:00</end>
+      <text>[11]金腊</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>金腊</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-599-01-14 05:57:00</start>
+      <end>476-02-07 00:22:00</end>
+      <text>[12]雅玛利</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>雅玛利</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-289-02-06 21:31:00</start>
+      <end>-289-02-06 21:31:00</end>
+      <text>维奇拉索登基</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>皇帝维奇拉索在薛兰历的世纪之交即位。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>7-02-19 20:06:00</start>
+      <end>7-02-19 20:06:00</end>
+      <text>娜塔莉丝政变</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>娜塔莉丝杀死了在大庭广众下杀死了奥德卡，强行取而代之。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>11-06-22 12:06:00</start>
+      <end>14-06-23 12:06:00</end>
+      <text>娜塔莉丝黑潮</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>奥德卡曾经花费数十年时间准备征服帝国旧域，未曾实施便因娜塔莉丝的政变而终止。娜塔莉丝发起了这场战争，然而以失败告终。娜塔莉丝对于这次战争的态度摇摆不定，又有贪心领土之意，又因为猜疑和嫌弃麻烦而不愿全心投入。战争既然失败，娜塔莉丝就正好顺水推舟，借此来扫除残留的反对势力。
+因为这是娜塔莉丝统治期间唯一一次主动发起的战争，所以被称为娜塔莉丝黑潮。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-728-12-23 05:34:00</start>
+      <end>-728-12-23 05:34:00</end>
+      <text>崖岛学院建立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-509-02-28 01:45:00</start>
+      <end>-509-02-28 01:45:00</end>
+      <text>环大陆航行</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>德里克船长(Captain Derrick)环绕亚兹加大陆航行了一周，促进了法林塔和东方各国的交流。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-358-01-20 16:52:00</start>
+      <end>-358-01-20 16:52:00</end>
+      <text>龙火权杖失踪</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>在黑暗时代的小王国战争中，龙火权杖失去了踪迹。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-201-09-01 06:20:00</start>
+      <end>-201-09-01 06:20:00</end>
+      <text>复兴崖岛学院</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>在帮助伽拉德一世夺取王位之后，德文纳尔谢绝了皇家法师的任命，将余生的精力投入到复兴崖岛学院的工作中。在他的努力下，这所古老的学院再度焕发生机。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-576-01-16 19:20:00</start>
+      <end>-576-01-16 19:20:00</end>
+      <text>孟夏条约</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>法林塔王国和科纳克的法罗尔签订了同盟条约，双方明确了领土疆界并且约定一同讨伐迪兰。该条约的签署象征着法林塔王国的扩土战争时终结。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-16-07-03 10:11:00</start>
+      <end>-16-07-03 10:11:00</end>
+      <text>安魂令</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>奥德卡颁布法令将卡雅等地立为法定的亡者安息地，禁止死灵法师复活这些地方的亡灵。从此以后，售卖安息墓地成为了纳尔奥利斯财政的一项来源。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-688-02-14 09:06:00</start>
+      <end>-688-02-14 09:06:00</end>
+      <text>薛兰第二共和国建立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-807-09-08 15:17:00</start>
+      <end>-807-09-08 15:17:00</end>
+      <text>薛兰共和国成立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>薛兰建立了最初的共和国</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-779-06-30 09:48:00</start>
+      <end>-779-06-30 09:48:00</end>
+      <text>罗西尼复辟王制</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-893-03-04 08:48:00</start>
+      <end>-893-03-04 08:48:00</end>
+      <text>薛兰独立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>薛兰摆脱了勒瑞姆王国的附庸地位，取得了独立。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>78-02-09 17:42:00</start>
+      <end>78-02-09 17:42:00</end>
+      <text>阿尔比成为巫妖王</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>阿尔比谋害娜塔莉丝，夺权成为了第三位巫妖王。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>359-12-12 19:08:00</start>
+      <end>359-12-12 19:08:00</end>
+      <text>科奎利安叛变</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>科奎利安叛变杀死了阿法拉斯，自立为第五代巫妖王。然而其统治不被后世承认，人们将其称为纳尔奥利斯的吸血鬼王。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>82-02-06 22:31:00</start>
+      <end>82-02-06 22:31:00</end>
+      <text>阿法拉斯成为校长</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>阿法拉斯成为了纳尔奥利斯的王立魔法学校校长。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>281-05-22 14:41:00</start>
+      <end>281-05-22 14:41:00</end>
+      <text>阿法拉斯离任校长</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>因为受到阿尔比的猜忌，阿法拉斯离任王立魔法学院的校长职位。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>163-06-30 08:03:00</start>
+      <end>163-06-30 08:03:00</end>
+      <text>首次北海圣战开始</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>为了铲除北寒岛上死灵王国的威胁，在凯洛文国王的大力支持下，秩理教廷的名义发动了第一次北伐圣战。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-361-10-12 13:59:00</start>
+      <end>-361-10-12 13:59:00</end>
+      <text>庶法改革</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>在奥卡普良的支持下，薛兰将法律全面庶法化</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-738-08-24 10:28:00</start>
+      <end>-738-08-24 10:28:00</end>
+      <text>佛教创立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>金腊</category>
+      <description>龙华祖师创立佛教</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-753-09-01 11:41:00</start>
+      <end>-753-09-01 11:41:00</end>
+      <text>亚杜岛巨像被树立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <description>智慧女神巨石像在亚杜岛上树立。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-315-09-20 13:44:00</start>
+      <end>-315-09-20 13:44:00</end>
+      <text>亚杜岛巨像被毁</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <description>亚杜岛巨像因为地震被毁。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>225-05-16 12:14:00</start>
+      <end>225-05-16 12:14:00</end>
+      <text>第四次北海圣战</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>267-02-28 01:27:00</start>
+      <end>267-02-28 01:27:00</end>
+      <text>奥索玛返乡</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>奥索玛回到纳尔奥利斯，将所著的异大陆见闻录留在大图书馆。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>237-11-30 14:19:00</start>
+      <end>237-11-30 14:19:00</end>
+      <text>卡潘建城</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>安苏玛那</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>322-03-07 00:04:00</start>
+      <end>322-03-07 00:04:00</end>
+      <text>卡潘镜台建成</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>安苏玛那</category>
+      <description>卡潘镜台建成，成为了天启共和国霸权的象征。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>219-04-25 21:35:00</start>
+      <end>437-04-02 23:44:00</end>
+      <text>[13]安苏玛那</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>安苏玛那</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>355-06-22 09:51:00</start>
+      <end>355-06-22 09:51:00</end>
+      <text>沙勿略前往东辰传教</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>秩理教廷的传教士沙勿略前往东辰传教20年，记录了自己在东方的见闻。他研究了东辰武学的魔法背景，开创了沙勿略学派。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-121-02-18 23:11:00</start>
+      <end>-121-02-18 23:11:00</end>
+      <text>王天师开云阳道</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <description>王冲入黎州，扫平了淫祀害民的当地原始巫教，开创了道教。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-40-11-24 04:57:00</start>
+      <end>-40-11-24 04:57:00</end>
+      <text>赵紫明演道为武</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <description>儒生赵通为避祸而上云阳山，学得道法。为了济世保民，根据道法演化出内家武术，成东辰武学之始祖。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>163-07-01 04:07:00</start>
+      <end>163-07-01 04:07:00</end>
+      <text>柳陵周氏被剿灭</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <description>朝廷肃清江湖势力，柳陵周氏于是被罗织谋反罪而剿灭。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>197-01-11 20:34:00</start>
+      <end>197-01-11 20:34:00</end>
+      <text>江湖令出台</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <description>朝廷派遣朱秀与武林代表会盟，协商出江湖令，以约束武林人士。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-688-03-01 00:00:00</start>
+      <end>-342-01-01 00:00:00</end>
+      <text>(1)薛兰共和国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-342-01-01 15:51:00</start>
+      <end>0-06-10 15:51:00</end>
+      <text>(1)薛兰帝国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1094-01-09 06:37:00</start>
+      <end>-694-01-09 06:37:00</end>
+      <text>(1)前共和国时期</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1370-10-18 17:59:00</start>
+      <end>-668-10-17 17:59:00</end>
+      <text>(2)埃迪亚文明</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1910-10-16 06:39:00</start>
+      <end>-1520-10-31 06:39:00</end>
+      <text>(2)安芬文明</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-2220-10-16 10:24:00</start>
+      <end>-1920-10-16 10:24:00</end>
+      <text>(2)佩拉斯文明</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>0-06-14 13:48:00</start>
+      <end>0-06-14 13:48:00</end>
+      <text>(1)薛兰灭亡</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>薛兰城被巴尔罗格攻破，正式标志了薛兰帝国的灭亡。末代皇帝克劳狄乌斯守城战死，其子在逃亡东方后不久被暗杀。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-668-11-15 06:45:00</start>
+      <end>-668-11-15 06:45:00</end>
+      <text>(2)达米安征服埃迪亚</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <description>东方的达米安帝国征服了埃迪亚。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-33-03-14 14:50:00</start>
+      <end>7-03-15 14:50:00</end>
+      <text>(3)奥德卡之治</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>死灵王国的初创时期</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>7-03-15 14:50:00</start>
+      <end>78-03-15 14:50:00</end>
+      <text>(3)娜塔莉丝之治</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>娜塔莉丝杀死了奥德卡，窃取了他的王国。但是娜塔莉丝并不擅长治国，除了耗费民力建造了几个浩大工程外并无建树。不过娜塔莉丝不爱干涉政事，倒是令议会在几十年间扩张了权力。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>78-03-15 14:50:00</start>
+      <end>318-01-01 14:50:00</end>
+      <text>(3)阿尔比之治</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>第三任巫妖王。其统治前期被称为白银时代。但是后期阿尔比受到灵魂腐化之苦，其统治不再开明。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>318-01-01 14:50:00</start>
+      <end>360-01-01 14:50:00</end>
+      <text>(3)阿法拉斯之治</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>第四任巫妖王。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>360-01-01 14:50:00</start>
+      <end>363-01-02 14:50:00</end>
+      <text>(3)科奎利安之治</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>从阿法拉斯夺权的吸血鬼王。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>363-01-02 21:02:00</start>
+      <end>378-01-02 21:02:00</end>
+      <text>(3)艾斯塔蒂之治</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>艾斯塔蒂在内战中击败了科奎利安，成为了第五任巫妖王。但是死灵王国已经衰落了。最后，在艾斯塔蒂任内，纳尔奥利斯被教廷的圣战击溃。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>71-12-31 19:59:00</start>
+      <end>289-04-19 19:59:00</end>
+      <text>(4)凯恩王朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>71-12-31 19:59:00</start>
+      <end>71-12-31 19:59:00</end>
+      <text>(4)凯洛文帝国成立</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>凯恩大帝重新统一了辽阔的土地，建立了凯洛文帝国。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>295-01-02 00:31:00</start>
+      <end>510-04-20 00:31:00</end>
+      <text>(4)罗斯凯洛王朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>289-04-19 19:59:00</start>
+      <end>289-04-19 19:59:00</end>
+      <text>(4)凯恩王朝结束</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>凯洛文</category>
+      <description>凯恩的血脉断绝，凯恩王朝结束。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-2050-04-26 15:26:00</start>
+      <end>-1900-04-26 15:26:00</end>
+      <text>(5)拉卡图王朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>亚冈</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-2700-04-26 07:12:00</start>
+      <end>-2100-04-26 07:12:00</end>
+      <text>(5)安纱王朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>亚冈</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1850-04-27 01:41:00</start>
+      <end>-1550-04-27 01:41:00</end>
+      <text>(5)伊兰度王朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>亚冈</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1500-12-31 01:38:00</start>
+      <end>-1399-01-01 01:38:00</end>
+      <text>(5)艾丹征服</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>亚冈</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1399-01-01 01:38:00</start>
+      <end>-822-01-01 01:38:00</end>
+      <text>(5)萨兰王朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>亚冈</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1499-01-01 22:10:00</start>
+      <end>-949-01-01 22:10:00</end>
+      <text>(6)龙岛文明</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>龙岛</category>
+      <description>龙岛位于亚兹加大陆的西北方海外。这里的文明是由龙族所启蒙，所以这座岛被称为龙岛文明。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-949-01-01 22:10:00</start>
+      <end>-749-01-01 22:10:00</end>
+      <text>(6)死灵王时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>随着死灵魔法被发现，卡哈尔公爵(Cahal)成为了第一位巫妖。他窃取了国家的统治权，开启了死灵王的朝代。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-749-02-20 19:09:00</start>
+      <end>-749-02-20 19:09:00</end>
+      <text>(6)龙岛文明的毁灭</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>龙岛</category>
+      <description>三条龙从东方飞来，毁灭了双月塔，龙岛的魔法文明被毁灭。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-799-01-01 22:16:00</start>
+      <end>-399-01-01 22:16:00</end>
+      <text>(7)柯金尼亚</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>柯金</category>
+      <description>古王国柯金尼亚是诸王国中最繁荣的一个，凭借商贸积累了海量的财富。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>165-01-22 11:08:00</start>
+      <end>180-01-01 11:08:00</end>
+      <text>(7)炎龙帝国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>柯金</category>
+      <description>佣兵皇帝费迪托夫建立了炎龙帝国，在十余年间为了统一德里弗利亚而征战。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>181-01-01 06:01:00</start>
+      <end>204-01-01 06:01:00</end>
+      <text>(7)暮光帝国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>柯金</category>
+      <description>光辉后裔阿尔贝因建立了暮光帝国沃洛尼亚，统一了德里弗利亚。但是随着阿尔贝因的逝世，暮光帝国很快就崩溃了。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-259-12-31 20:56:00</start>
+      <end>165-01-01 20:56:00</end>
+      <text>(7)小王国时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>柯金</category>
+      <description>德里弗利亚地区小王国林立，纷争不断。这里的民众长久难以享受和平的生活。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>205-01-01 21:45:00</start>
+      <end>363-01-01 21:45:00</end>
+      <text>(7)纳尔奥利斯占领</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>阿尔比趁乱占领了德里弗利亚地区，从此开始了对该地区一百余年的统治。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-949-02-25 23:36:00</start>
+      <end>-750-02-26 23:36:00</end>
+      <text>(8)小王国时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>为了逃离死灵王的统治，一部分民众东渡逃离了龙岛，在亚兹加大陆的西海岸建立了数个小王国。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-740-09-20 08:06:00</start>
+      <end>-380-09-20 08:06:00</end>
+      <text>(8)哈德里安王朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>对抗巫妖领主的战争将分散的小王国结合在一起，铸造了统一的法林塔诺王国。哈德里安一世(Hadrian I)开创了他的王朝。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-745-09-13 20:31:00</start>
+      <end>-745-09-13 20:31:00</end>
+      <text>(8)抗击巫妖领主</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>死灵王的统治被巨龙终结后，一些巫妖领主带着龙岛民众逃向了亚兹加大陆，这些巫妖领主的暴虐激起了龙岛人的反抗。在哈德利安一世的领导下，龙岛的起义者和法林塔人联手击败了巫妖领主。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-380-09-20 08:06:00</start>
+      <end>-380-09-20 08:06:00</end>
+      <text>(8)哈德里安王朝终结</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>哈德里安八世去世，没有留下子嗣，因而王国没有合法的继承人。哈德里安王朝由此终结。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-379-02-15 23:44:00</start>
+      <end>-309-02-15 23:44:00</end>
+      <text>(8)黑暗时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>在哈德里安王朝结束后，法林塔王国分裂，军阀混战，短命王朝相替。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-309-02-15 23:44:00</start>
+      <end>-204-02-16 23:44:00</end>
+      <text>(8)欧林王朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>欧林(Orin)王朝虽然繁荣，但是却并不平安。欧林一世死于霜族之手，欧林二世则殒命于妻儿的背叛，最后僭主阿什利(Ashley)女王统治了20年，被伽拉德(Garard)终结。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-204-02-16 23:44:00</start>
+      <end>-204-02-16 23:44:00</end>
+      <text>(8)伽拉德夺回王位</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <description>长大后的伽拉德在德文纳尔的指导下从阿什利女王手中夺回了王位。 然而伽拉德并不是真的王室成员，而只是被德文纳尔掉包的婴儿，所以伽拉德娶了阿什利之女，创造了新的王朝。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-204-07-26 20:33:00</start>
+      <end>-71-07-27 20:33:00</end>
+      <text>(8)伽拉德王朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>法林塔</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-256-01-27 17:52:00</start>
+      <end>-25-01-28 17:52:00</end>
+      <text>(9)辰朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>79-08-16 21:34:00</start>
+      <end>203-08-18 21:34:00</end>
+      <text>(9)前梁</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>203-08-18 21:34:00</start>
+      <end>210-08-18 21:34:00</end>
+      <text>(9)伪汉</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>211-01-31 01:30:00</start>
+      <end>499-01-30 01:30:00</end>
+      <text>(9)中梁</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <description>亦称北梁</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>499-04-15 04:11:00</start>
+      <end>653-04-15 04:11:00</end>
+      <text>(9)后梁</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <description>亦称南梁</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-465-11-26 05:01:00</start>
+      <end>-402-11-27 05:01:00</end>
+      <text>(9)纪朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1069-01-20 09:44:00</start>
+      <end>-491-01-21 09:44:00</end>
+      <text>(9)殷朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1349-01-19 09:44:00</start>
+      <end>-1069-01-20 09:44:00</end>
+      <text>(9)宣朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1599-01-18 09:44:00</start>
+      <end>-1349-01-19 09:44:00</end>
+      <text>(9)姜朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-402-11-27 05:01:00</start>
+      <end>-402-11-27 05:01:00</end>
+      <text>(9)纪国统一天下</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <description>纪国灭陈，统一天下</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-491-01-21 09:44:00</start>
+      <end>-491-01-21 09:44:00</end>
+      <text>(9)纪国灭殷</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-492-07-24 22:10:00</start>
+      <end>-492-07-24 22:10:00</end>
+      <text>(2)薛兰征服埃迪亚</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <description>薛兰征服了埃迪亚，开启了对这个古老国度的漫长占领时期。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-492-07-24 22:10:00</start>
+      <end>3-07-24 22:10:00</end>
+      <text>(2)薛兰占领时期</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>薛兰</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-399-06-27 07:06:00</start>
+      <end>-259-06-27 07:06:00</end>
+      <text>(7)拉尔卡斯王国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>柯金</category>
+      <description>圣心王伊拉里昂建立的国家。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-20-12-27 17:07:00</start>
+      <end>73-12-28 17:07:00</end>
+      <text>(9)廿国之乱</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <description>东辰史上的百年混乱时期，先后出现了二十余个国家</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-1503-06-26 16:11:00</start>
+      <end>-88-06-26 16:11:00</end>
+      <text>(10)部落时期</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>居住在亚洲西南方的丛林之中的楚兰加斯人一直长期分部落生活，各族崇拜着不同的嗜血神明。各部落间为了报复仇恨和取悦神明而相互厮杀。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-88-06-26 16:11:00</start>
+      <end>171-06-28 16:11:00</end>
+      <text>(10)楚兰加斯帝国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>171-06-28 16:11:00</start>
+      <end>171-06-28 16:11:00</end>
+      <text>(10)弗朗哥二世征服楚兰加斯帝国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>罗赛</category>
+      <description>弗朗哥二世趁着楚兰加斯的混乱，征服了那里。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>5-11-11 19:19:00</start>
+      <end>62-11-12 19:19:00</end>
+      <text>(2)提奥多拉王国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <description>在薛兰崩溃后，埃迪亚裔的薛兰将军在当地建立的新王国。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>64-05-30 15:50:00</start>
+      <end>315-05-31 15:50:00</end>
+      <text>(2)埃迪亚同盟</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>埃迪亚</category>
+      <description>提奥多拉王国崩溃后，埃迪亚人恢复了古代的城邦同盟制度。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>171-06-28 16:11:00</start>
+      <end>178-06-28 16:11:00</end>
+      <text>(10)萨洛赫占领</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>罗赛</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>178-07-10 04:48:00</start>
+      <end>221-07-11 04:48:00</end>
+      <text>(10)莫雷诺王国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>罗赛</category>
+      <description>在弗朗哥二世去世后，他的将军背叛了他，在楚兰加斯人的土地上建立了莫雷诺王国。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>222-08-18 03:56:00</start>
+      <end>450-08-19 03:56:00</end>
+      <text>(10)贝棕王国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>楚兰加斯</category>
+      <description>黑豹领主萨万卡推翻了莫雷诺王国，建立了贝棕王国</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-353-08-08 00:22:00</start>
+      <end>267-02-07 00:22:00</end>
+      <text>(11)古典时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>金腊</category>
+      <description>泰兰人入侵了金腊，和当地的土著融合，建立了金腊的古典文明。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-599-01-14 05:57:00</start>
+      <end>20-01-15 05:57:00</end>
+      <text>(12)游牧时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>雅玛利</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>276-02-07 00:22:00</start>
+      <end>818-02-08 00:22:00</end>
+      <text>(11)辛教占领</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>雅玛利</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>20-02-22 09:46:00</start>
+      <end>87-02-22 09:46:00</end>
+      <text>(12)先知时代</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>雅玛利</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>87-11-19 22:34:00</start>
+      <end>115-11-20 22:34:00</end>
+      <text>(12)继志者共和国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>雅玛利</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>117-02-07 00:22:00</start>
+      <end>476-02-07 00:22:00</end>
+      <text>(12)雅玛利帝国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>雅玛利</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-474-10-26 12:27:00</start>
+      <end>-392-10-27 12:27:00</end>
+      <text>(11)白鸟王朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>金腊</category>
+      <description>金腊历史上第一次统一，然而时间很短暂。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>-811-02-20 00:00:00</start>
+      <end>-511-02-21 00:00:00</end>
+      <text>(11)百花齐放时期</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>金腊</category>
+      <description>金腊历史上的百家争鸣时期，和东辰同一时期的百家争鸣很像。思想界和宗教上异说蜂出，宗派林立，各执一端，争鸣激烈。</description>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>87-02-22 09:46:00</start>
+      <end>87-02-22 09:46:00</end>
+      <text>(12)先知拉希德去世</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>雅玛利</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>20-01-15 05:57:00</start>
+      <end>20-01-15 05:57:00</end>
+      <text>(12)先知拉希德诞生</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>雅玛利</category>
+      <default_color>200,200,200</default_color>
+    </event>
+    <event>
+      <start>437-04-02 23:44:00</start>
+      <end>437-04-02 23:44:00</end>
+      <text>(13)天启共和国灭亡</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>安苏玛那</category>
+      <description>不堪霸权的兽人们发起了叛乱，攻破卡潘城，消灭了十人议会，摧毁了卡潘镜台。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>251-04-01 23:44:00</start>
+      <end>437-04-02 23:44:00</end>
+      <text>(13)天启共和国</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>安苏玛那</category>
+      <description>在奥索玛的领导下，安苏玛那的兽人建立了国家。国家由十人议会领导，命名为天启共和国。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>219-04-25 21:35:00</start>
+      <end>219-04-25 21:35:00</end>
+      <text>(13)奥索玛西渡</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>死灵王国</category>
+      <description>纳尔奥利斯的巫妖奥索玛坐船西航到达潘卡拉大陆，在那里发现了兽人，并培育了他们的文明。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>219-06-09 20:26:00</start>
+      <end>247-06-10 20:26:00</end>
+      <text>(13)奥索玛启蒙</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>安苏玛那</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>247-06-10 20:26:00</start>
+      <end>247-06-10 20:26:00</end>
+      <text>(13)奥索玛被叛乱赶走</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>安苏玛那</category>
+      <description>对安苏玛那不满的人发动了一场暴乱。虽然这场暴乱没有对奥索玛产生实质的伤害，但是却对他的心理产生了影响，促使奥索玛在思考后选择离开。</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-400-01-17 17:23:00</start>
+      <end>-258-01-18 17:23:00</end>
+      <text>(9)魏朝</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>东辰</category>
+      <default_color>192,192,192</default_color>
+    </event>
+  </events>
+  <view>
+    <displayed_period>
+      <start>-34-07-01 21:32:01</start>
+      <end>197-06-30 01:41:11</end>
+    </displayed_period>
+    <hidden_categories>
+    </hidden_categories>
+  </view>
+</timeline>
